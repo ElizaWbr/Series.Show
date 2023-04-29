@@ -1,0 +1,696 @@
+@font-face{
+ font-family: 'Friends';
+ src: url('GABRWFFR.TTF') format('truetype');
+}
+* {
+    box-sizing: border-box;
+  }
+header{
+    background-color: #AF7AC5;
+    padding:20px;
+    text-align: center;
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+}
+nav {
+    font-size: larger;
+     text-align: center;
+     list-style: none; 
+     background-color:#D7BDE2 ;
+     padding:10px;
+     margin:0px; 
+     font-family: 'Courier New', Courier, monospace; 
+ }
+ footer{
+    background-color: #D7BDE2;
+    padding:10px;
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ article#um{
+   
+    width: 33%;
+    padding: 20px;
+    float:left;
+    background-color: #EBDEF0;
+    font-family: 'Courier New', Courier, monospace;
+    height: 470px;
+    border-left: 1px solid black;
+}   
+article#dois{
+    padding: 20px;
+    width: 33%;
+    float:left;
+    background-color: #EBDEF0;
+    font-family: 'Courier New', Courier, monospace;
+    height: 470px; 
+    border-left: 1px solid black;
+}
+article#tres{
+   
+    width: 33%;
+    padding: 20px;
+    float:left;
+    background-color: #EBDEF0;
+    font-family: 'Courier New', Courier, monospace;
+    height: 470px;
+    border-left: 1px solid black;
+}
+/*BROOKLYN 99*/
+div#um{
+    width: 100%;
+    padding: 0px;
+    float:left;
+    text-align: center;
+    font-size: 50px;
+    background-color: #F1C40F;
+    font-family: 'Courier New', Courier, monospace;
+    height: 200px;
+}
+article#bum{
+    width: 33%;
+    padding: 20px;
+    float:left;
+    background-color: #F7D358;
+    font-family: 'Courier New', Courier, monospace;
+    height: 400px;
+    border-left: 1px solid black;
+}
+article#bdois{
+    width: 33%;
+    padding: 20px;
+    float:left;
+    background-color: #F7D358;
+    font-family: 'Courier New', Courier, monospace;
+    height: 400px;
+    border-left: 1px solid black;
+}
+article#btres{
+    width: 33%;
+    padding: 20px;
+    float:left;
+    background-color: #F7D358;
+    font-family: 'Courier New', Courier, monospace;
+    height: 400px;
+    border-left: 1px solid black;
+}
+article#bquatro{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #F1C40F;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 320px;
+    border-left: 1px solid black;
+    font-size: 17px;
+}
+table{
+ margin: auto;
+}
+article#bcinco{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #F7D358;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 420px;
+    border-left: 1px solid black;
+}
+article#bseis{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #F7D358;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 420px;
+    border-left: 1px solid black;
+}
+article#bsete{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #F9E79F;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 70px;
+    font-size: 25px;
+    border-left: 1px solid black;
+}
+/*THE SINNER*/
+div#tsum{
+    width: 100%;
+    padding: 0px;
+    float:left;
+    text-align: center;
+    background-color: #04B4AE;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 200px;
+}
+article#sum{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 500px;
+    border-left: 1px solid black;
+}
+article#sdois{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 500px;
+    border-left: 1px solid black;
+}
+article#stres{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 570px;
+    border-left: 1px solid black;
+}
+article#strespar{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 570px;
+    border-left: 1px solid black;
+}
+article#squatro{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #2EFEC8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 240px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+table{
+ margin: auto;
+}
+article#scinco{
+    width: 25%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 300px;
+    border-left: 1px solid black;
+}
+article#scincopar{
+    width: 25%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 300px;
+    border-left: 1px solid black;
+}
+article#sseis{
+    width: 25%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 300px;
+    border-left: 1px solid black;
+}
+article#sseispar{
+    width: 25%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 300px;
+    border-left: 1px solid black;
+}
+article#ssete{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #A9F5E1;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 70px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+/*COMMUNITY*/
+div#tcum{
+    width: 100%;
+    padding: 0px;
+    float:left;
+    text-align: center;
+    background-color: #0101DF;
+    font-family: 'Courier New', Courier, monospace;
+    height: 200px;
+    font-size: 50px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #FFFFFF;
+}
+article#cum{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #5858FA;
+    font-family: 'Courier New', Courier, monospace;
+    height: 240px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+article#linhaum{
+    width: 33.3%;
+    padding: 20px;
+    float:left;
+    background-color: #A9A9F5;
+    font-family: 'Courier New', Courier, monospace;
+    height: 565px;
+    border-left: 1px solid black;
+}
+article#linhadois{
+    width: 33.3%;
+    padding: 20px;
+    float:left;
+    background-color: #8181F7;
+    font-family: 'Courier New', Courier, monospace;
+    height: 225px;
+    border-left: 1px solid black;
+}
+article#linhaseis{
+    width: 33.3%;
+    padding: 20px;
+    float:left;
+    background-color: #8181F7;
+    font-family: 'Courier New', Courier, monospace;
+    height: 340px;
+    border-left: 1px solid black;
+}
+article#linhatres{
+    width: 33.3%;
+    padding: 20px;
+    float:left;
+    background-color: #A9A9F5;
+    font-family: 'Courier New', Courier, monospace;
+    height: 225px;
+    border-left: 1px solid black;
+}
+article#linhaquatro{
+    width: 33.3%;
+    padding: 20px;
+    float:left;
+    background-color: #A9A9F5;
+    font-family: 'Courier New', Courier, monospace;
+    height: 340px;
+    border-left: 1px solid black;
+}
+article#linhacinco{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #5858FA;
+    font-family: 'Courier New', Courier, monospace;
+    height: 250px;
+    border-left: 1px solid black;
+}
+article#cquatro{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #E0E0F8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 320px;
+    font-size: 18px;
+    border-left: 1px solid black;
+}
+article#ctres{
+ width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #8181F7;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 250px;
+    border-left: 1px solid black;
+}
+table{
+ margin: auto;
+}
+article#ccinco{
+    width: 50%;
+    padding: 20px;
+    float:left;
+    background-color: #8181F7;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 420px;
+    border-left: 1px solid black;
+}
+article#csete{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #A9A9F5;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 70px;
+    font-size: 18px;
+    border-left: 1px solid black;
+}
+/*FRIENDS*/
+div#frum{
+    width: 100%;
+    padding: 0px;
+    float:left;
+    text-align: center;
+    background-color: #FF8000;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 200px;
+}
+div#fumdois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #FAAC58;
+    font-family: 'Courier New', Courier, monospace;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+}
+article#ftitulodois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #EA3232;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 370px;
+}
+div#textoclaroum{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    background-color: #F79F81;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 260px;
+}
+/**/
+article#ftitulodoisdois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #F7FE2E;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 370px;
+}
+div#textoclarodois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    background-color: #F2F5A9;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 260px;
+   /**/
+}article#ftitulodoistres{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #58ACFA;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 370px;
+}
+div#textoclarotres{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    background-color: #CEE3F6;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 260px;
+}
+article#ftitulodoisdoisdois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #F7FE2E;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100px;
+}
+article#fdois{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 500px;
+    border-left: 1px solid black;
+}
+article#ftres{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 570px;
+    border-left: 1px solid black;
+}
+article#ftrespar{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 570px;
+    border-left: 1px solid black;
+}
+article#fquatro{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #9F81F7;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 240px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+table{
+ margin: auto;
+}
+article#fcinco{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #FF8000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 430px;
+    border-left: 1px solid black;
+}
+article#fsete{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #FAAC58;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 70px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+div#ffriends{
+ width: 7%;
+ font-family: 'Friends';
+ float: left;
+ background-color: #9F81F7;
+ height: 210px;
+ font-size: 60px;
+ text-align: center;
+}
+div#fffriends{
+ width: 4.5%;
+ font-family: 'Friends';
+ float: left;
+ background-color: #9F81F7;
+ height: 210px;
+ font-size: 60px;
+ text-align: center;
+}
+div#ffriendsvermelho{
+ width: 7%;
+ font-family: 'Friends';
+ color: #EA3232;
+ float: left;
+ background-color: #9F81F7;
+ height: 210px;
+ font-size: 60px;
+ text-align: center;
+}
+div#ffriendsazul{
+ width: 7%;
+ font-family: 'Friends';
+ color: #58ACFA;
+ float: left;
+ background-color: #9F81F7;
+ height: 210px;
+ font-size: 60px;
+ text-align: center;
+}
+div#ffriendsamarelo{
+ width: 7%;
+ font-family: 'Friends';
+ color: #F7FE2E;
+ float: left;
+ background-color: #9F81F7;
+ height: 210px;
+ font-size: 60px;
+ text-align: center;
+}
+/*#EA3232 vermelho1 #F7FE2E amarelo #00BFFF azul*/
+/*HOW I MET YOUR MOTHER*/
+div#himymrum{
+    width: 100%;
+    padding: 0px;
+    float:left;
+    text-align: center;
+    background-color: #FBDB11;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 200px;
+}
+div#himymumdois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #FFE648;
+    font-family: 'Courier New', Courier, monospace;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+}
+article#himymtitulodois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #2ECCFA;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 460px;
+}
+div#himymclaroum{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    background-color: #A9E2F3;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 380px;
+}
+/**/
+article#himymtitulodoisdoisdois{
+    width: 100%;
+    padding: 0px;
+    float: left;
+    background-color: #F2F5A9;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100px;
+}
+article#himymdois{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 500px;
+    border-left: 1px solid black;
+}
+article#himymtres{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 570px;
+    border-left: 1px solid black;
+}
+article#himymtrespar{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #81F7D8;
+    font-family: 'Courier New', Courier, monospace;
+    height: 570px;
+    border-left: 1px solid black;
+}
+article#himymquatro{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #9F81F7;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 240px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+table{
+ margin: auto;
+}
+article#himymcinco{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #FBDB11;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 430px;
+    border-left: 1px solid black;
+}
+article#himymsete{
+    width: 100%;
+    padding: 20px;
+    float:left;
+    background-color: #FFE648;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 70px;
+    border-left: 1px solid black;
+    font-size: 18px;
+}
+div#foto{
+ text-align: center;
+ border: 8px solid black;
+ float: left;
+ width:100%;
+ height:530px;
+ background-color: #A9E2F3;
+}
